@@ -1,9 +1,13 @@
-.red {
-    color: red;
-    font-size: 100px;
+p, h1{ color: blue;}
+
+div#fdv{ 
+    background-color: antiquewhite;
 }
 
-#blue {
-    color: blue;
-    font-size: 100px;
+#sdv{
+    background-color: bisque ;
+}
+
+#tdv{ 
+    background-color: rgb(226, 43, 134);
 }
