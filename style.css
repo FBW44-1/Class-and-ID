@@ -1,9 +1,14 @@
-.red {
-    color: red;
-    font-size: 100px;
+.blue {
+    color: blue;
+    font-size: 50px;
 }
 
-#blue {
-    color: blue;
-    font-size: 100px;
+h1#blue2{
+    color:blue;
 }
+
+#yellow{ background-color: yellow; }
+
+#black{ background-color: black;}
+
+#orange { background-color: orange;}
